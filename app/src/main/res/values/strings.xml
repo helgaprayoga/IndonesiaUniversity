@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Indonesia University</string>
+    <string name="university_name">Nama Universitas</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Universitas Indonesia</item>
+        <item>Universitas Gadjah Mada</item>
+        <item>Institut Teknologi Bandung</item>
+        <item>Universitas Negeri Yogyakarta</item>
+        <item>Universitas Diponegoro</item>
+        <item>Universitas Negeri Sebelas Maret</item>
+        <item>Universitas Negeri Jakarta</item>
+        <item>Universitas Negeri Semarang</item>
+        <item>Universitas Jenderal Soedirman</item>
+        <item>Institut Pertanian Bogor</item>
+        <item>Universitas Pembangunan Nasional "Veteran" Yogyakarta</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Universitas Indonesia (disingkat UI) adalah perguruan tinggi di Indonesia. Kampus utamanya terletak di bagian Utara dari Depok, Jawa Barat</item>
+        <item>Universitas Gadjah Mada (UGM) adalah perguruan tinggi negeri di Daerah Istimewa Yogyakarta, Indonesia.</item>
+        <item>Institut Teknologi Bandung (disingkat ITB) adalah sebuah perguruan tinggi negeri yang terletak di Kota Bandung, Jawa Barat.</item>
+        <item>Universitas Negeri Yogyakarta (disingkat UNY) merupakan salah satu perguruan tinggi negeri di Indonesia. Kampus utama universitas ini terletak di Kabupaten Sleman, Daerah Istimewa Yogyakarta.</item>
+        <item>Universitas Diponegoro disingkat sebagai UNDIP adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Semarang, Jawa Tengah, Indonesia.</item>
+        <item>Universitas Sebelas Maret (disebut UNS) adalah sebuah perguruan tinggi negeri di Indonesia yang berada di Kentingan, Jebres, Kota Surakarta.</item>
+        <item>Universitas Negeri Jakarta (disingkat sebagai UNJ) adalah perguruan tinggi negeri yang terdapat di Kota Jakarta, Indonesia yang didirikan pada tahun 1964.</item>
+        <item>Universitas Negeri Semarang (disingkat UNNES) adalah salah satu Perguruan Tinggi Negeri (PTN) di Indonesia yang kini dipimpin Rektor Prof. Dr. S Martono, M.Si.</item>
+        <item>Universitas Jenderal Soedirman (disingkat sebagai Unsoed) adalah sebuah perguruan tinggi negeri di Indonesia yang terletak di Purwokerto, Kabupaten Banyumas, Jawa Tengah. </item>
+        <item>Institut Pertanian Bogor (IPB University, sebelumnya Bogor Agricultural University) merupakan Perguruan Tinggi Negeri yang berlokasi di Bogor, Jawa Barat.</item>
+        <item>Universitas Pembangunan Nasional "Veteran" Yogyakarta (disingkat UPN "Veteran" Yogyakarta, UPNVYK, atau UPNYK) adalah sebuah perguruan tinggi negeri di Indonesia yang berlokasi di Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta. </item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ui</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/itb</item>
+        <item>@drawable/uny</item>
+        <item>@drawable/undip</item>
+        <item>@drawable/uns</item>
+        <item>@drawable/unj</item>
+        <item>@drawable/unnes</item>
+        <item>@drawable/unsoed</item>
+        <item>@drawable/ipb</item>
+        <item>@drawable/upn</item>
+    </integer-array>
+</resources>
